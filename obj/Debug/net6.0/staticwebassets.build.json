@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "dgedRaGnJQuXvFV+uAvBTzP3AtzR4K2FK2xZqNe7/E4=",
+  "Source": "MAPay",
+  "BasePath": "_content/MAPay",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MAPay\\wwwroot",
+      "Source": "MAPay",
+      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\Vaishali\\MAPay Credentialing App\\MAPayCredentialingApp\\MAPayCredentialingApp\\wwwroot\\",
+      "BasePath": "_content/MAPay",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\lenovo\\Desktop\\Vaishali\\MAPay Credentialing App\\MAPayCredentialingApp\\MAPayCredentialingApp\\wwwroot\\Documents\\certification20220622043731417.pdf",
+      "SourceId": "MAPay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\Vaishali\\MAPay Credentialing App\\MAPayCredentialingApp\\MAPayCredentialingApp\\wwwroot\\",
+      "BasePath": "_content/MAPay",
+      "RelativePath": "Documents/certification20220622043731417.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Documents\\certification20220622043731417.pdf"
+    }
+  ]
+}
